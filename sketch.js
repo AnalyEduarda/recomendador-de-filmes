@@ -37,7 +37,7 @@ function draw() {
 function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
   if (idade >= 10) {
     if (idade >= 14) {
-      return "A casa montro";
+      return "A casa monstro";
     } else {
       return "Zootopia"
       if (idade >= 12) {
